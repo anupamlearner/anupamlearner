@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anupamlearner
-- 👀 I’m interested in learning the MERN STACK
+- 👀 I’m interested in learning web development 
 - 🌱 I’m currently learning MERN STACK
 - 💞️ I’m looking to collaborate on REACT and MERN STACK APPS
 - 📫 How to reach me anup.learn@gmail.com
